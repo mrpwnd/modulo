@@ -2,7 +2,6 @@
 
 ########################################
 # This will install necessary packages #
-# into ~/local/bin directory           #
 ########################################
 
 # set up bash to handle errors more aggressively - a "strict mode" of sorts
