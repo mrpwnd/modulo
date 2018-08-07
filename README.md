@@ -1,7 +1,7 @@
 # modulo
 test library
 
-#Requirements
+## Requirements
 
 PyAudio == 0.2.11
 SpeechRecognition == 3.8.1
@@ -11,4 +11,4 @@ For PyAudion:
 
 Install Requirements
 ```chmod +x requirements.sh```
-```./requirements.sh``
+```./requirements.sh```
